@@ -45,7 +45,7 @@ namespace AlunoApi.Controllers
             return alunos;
         }
 
-        // PUT: /alunos/{id}
+        // PUT: /alunos/editar/{id}
         [HttpPut("{id}")]
         public async Task<IActionResult> PutAlunos(int id, Alunos alunos)
         {
@@ -77,16 +77,16 @@ namespace AlunoApi.Controllers
 
         // POST: /alunos
         [HttpPost]
-        public async Task<ActionResult<Alunos>> PostAlunos(Alunos alunos)
+        public async Task<ActionResult<Alunos>> PostAlunos([FromBody]Alunos alunos)
         {
-          if (_context.Alunos == null)
+            if (_context.Alunos == null)
           {
               return BadRequest("A solicitação contém dados inválidos ou está ausente de informações necessárias.");
           }
-            _context.Alunos.Add(alunos);
+            await _context.Alunos.AddAsync(alunos);
             await _context.SaveChangesAsync();
 
-            return CreatedAtAction("GetAlunos", new { id = alunos.Id }, alunos);
+            return Ok(alunos);
         }
 
         // DELETE: /alunos/{id}

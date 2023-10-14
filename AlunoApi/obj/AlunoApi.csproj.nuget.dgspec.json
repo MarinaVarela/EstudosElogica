@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marina.varela\\Documents\\Estudos\\ASP.NET\\AlunoApi\\AlunoApi.csproj": {}
+    "C:\\Users\\marina.varela\\Documents\\estudos\\Estudos2\\ASP.NET\\AlunoApi\\AlunoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marina.varela\\Documents\\Estudos\\ASP.NET\\AlunoApi\\AlunoApi.csproj": {
+    "C:\\Users\\marina.varela\\Documents\\estudos\\Estudos2\\ASP.NET\\AlunoApi\\AlunoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marina.varela\\Documents\\Estudos\\ASP.NET\\AlunoApi\\AlunoApi.csproj",
+        "projectUniqueName": "C:\\Users\\marina.varela\\Documents\\estudos\\Estudos2\\ASP.NET\\AlunoApi\\AlunoApi.csproj",
         "projectName": "AlunoApi",
-        "projectPath": "C:\\Users\\marina.varela\\Documents\\Estudos\\ASP.NET\\AlunoApi\\AlunoApi.csproj",
+        "projectPath": "C:\\Users\\marina.varela\\Documents\\estudos\\Estudos2\\ASP.NET\\AlunoApi\\AlunoApi.csproj",
         "packagesPath": "C:\\Users\\marina.varela\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marina.varela\\Documents\\Estudos\\ASP.NET\\AlunoApi\\obj\\",
+        "outputPath": "C:\\Users\\marina.varela\\Documents\\estudos\\Estudos2\\ASP.NET\\AlunoApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\marina.varela\\AppData\\Roaming\\NuGet\\NuGet.Config",

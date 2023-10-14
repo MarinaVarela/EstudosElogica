@@ -2,7 +2,7 @@
 using Microsoft.Extensions.DependencyInjection;
 using AlunoApi.Data;
 var builder = WebApplication.CreateBuilder(args);
-
+    
 builder.Services.AddDbContext<AlunoDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("AlunoDbContext") ?? throw new InvalidOperationException("Connection string 'AlunoDbContext' not found.")));
 
@@ -23,10 +23,7 @@ if (app.Environment.IsDevelopment())
 }
 
 // Enable CORS
-app.UseCors(options =>
-options.WithOrigins("http://localhost:59559")
-.AllowAnyMethod()
-.AllowAnyHeader());
+app.UseCors(policy => policy.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
 
 app.UseHttpsRedirection();
 app.UseAuthorization();

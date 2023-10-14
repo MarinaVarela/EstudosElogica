@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iQp84WJ3NhE4cL+NdhMHAnt0aJVXJekOwFFWgiCjL0Kv9zBw3kXGcjnb1dnENJfMCu49o3AMWazIDQ6UHZVY7A==",
+  "dgSpecHash": "2+ZFYcmtF0i98DezAWwvG2HuRbxjebYcfTSFbRnRSs48P8uF09buVDTOWJWSUP3tOedHvsc0xDaxFtA1EzNTbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marina.varela\\Documents\\Estudos\\ASP.NET\\AlunoApi\\AlunoApi.csproj",
+  "projectFilePath": "C:\\Users\\marina.varela\\Documents\\estudos\\Estudos2\\ASP.NET\\AlunoApi\\AlunoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marina.varela\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\marina.varela\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
