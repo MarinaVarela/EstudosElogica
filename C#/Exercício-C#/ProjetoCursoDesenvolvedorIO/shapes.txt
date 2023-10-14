@@ -1,0 +1,8 @@
+Raio: 9
+Círculo, figura geométrica plana
+Raio: 4,6
+Círculo, figura geométrica plana
+Raio: 5
+Círculo, figura geométrica plana
+Raio: 12,9
+Círculo, figura geométrica plana

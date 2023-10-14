@@ -1,0 +1,14 @@
+C:\Users\marina.varela\Documents\Estudos\C#\AppClientes\bin\Debug\net7.0\AppClientes.exe
+C:\Users\marina.varela\Documents\Estudos\C#\AppClientes\bin\Debug\net7.0\AppClientes.deps.json
+C:\Users\marina.varela\Documents\Estudos\C#\AppClientes\bin\Debug\net7.0\AppClientes.runtimeconfig.json
+C:\Users\marina.varela\Documents\Estudos\C#\AppClientes\bin\Debug\net7.0\AppClientes.dll
+C:\Users\marina.varela\Documents\Estudos\C#\AppClientes\bin\Debug\net7.0\AppClientes.pdb
+C:\Users\marina.varela\Documents\Estudos\C#\AppClientes\obj\Debug\net7.0\AppClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marina.varela\Documents\Estudos\C#\AppClientes\obj\Debug\net7.0\AppClientes.AssemblyInfoInputs.cache
+C:\Users\marina.varela\Documents\Estudos\C#\AppClientes\obj\Debug\net7.0\AppClientes.AssemblyInfo.cs
+C:\Users\marina.varela\Documents\Estudos\C#\AppClientes\obj\Debug\net7.0\AppClientes.csproj.CoreCompileInputs.cache
+C:\Users\marina.varela\Documents\Estudos\C#\AppClientes\obj\Debug\net7.0\AppClientes.dll
+C:\Users\marina.varela\Documents\Estudos\C#\AppClientes\obj\Debug\net7.0\refint\AppClientes.dll
+C:\Users\marina.varela\Documents\Estudos\C#\AppClientes\obj\Debug\net7.0\AppClientes.pdb
+C:\Users\marina.varela\Documents\Estudos\C#\AppClientes\obj\Debug\net7.0\AppClientes.genruntimeconfig.cache
+C:\Users\marina.varela\Documents\Estudos\C#\AppClientes\obj\Debug\net7.0\ref\AppClientes.dll

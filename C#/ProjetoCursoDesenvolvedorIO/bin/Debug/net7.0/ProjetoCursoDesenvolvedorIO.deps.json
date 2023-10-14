@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ProjetoCursoDesenvolvedorIO/1.0.0": {
+        "runtime": {
+          "ProjetoCursoDesenvolvedorIO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjetoCursoDesenvolvedorIO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\marina.varela\Documents\Exercício-C#\ProjetoCursoDesenvolvedorIO\bin\Debug\net7.0\ProjetoShapes.exe
+C:\Users\marina.varela\Documents\Exercício-C#\ProjetoCursoDesenvolvedorIO\bin\Debug\net7.0\ProjetoShapes.deps.json
+C:\Users\marina.varela\Documents\Exercício-C#\ProjetoCursoDesenvolvedorIO\bin\Debug\net7.0\ProjetoShapes.runtimeconfig.json
+C:\Users\marina.varela\Documents\Exercício-C#\ProjetoCursoDesenvolvedorIO\bin\Debug\net7.0\ProjetoShapes.dll
+C:\Users\marina.varela\Documents\Exercício-C#\ProjetoCursoDesenvolvedorIO\bin\Debug\net7.0\ProjetoShapes.pdb
+C:\Users\marina.varela\Documents\Exercício-C#\ProjetoCursoDesenvolvedorIO\obj\Debug\net7.0\ProjetoShapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marina.varela\Documents\Exercício-C#\ProjetoCursoDesenvolvedorIO\obj\Debug\net7.0\ProjetoShapes.AssemblyInfoInputs.cache
+C:\Users\marina.varela\Documents\Exercício-C#\ProjetoCursoDesenvolvedorIO\obj\Debug\net7.0\ProjetoShapes.AssemblyInfo.cs
+C:\Users\marina.varela\Documents\Exercício-C#\ProjetoCursoDesenvolvedorIO\obj\Debug\net7.0\ProjetoShapes.csproj.CoreCompileInputs.cache
+C:\Users\marina.varela\Documents\Exercício-C#\ProjetoCursoDesenvolvedorIO\obj\Debug\net7.0\ProjetoShapes.dll
+C:\Users\marina.varela\Documents\Exercício-C#\ProjetoCursoDesenvolvedorIO\obj\Debug\net7.0\refint\ProjetoShapes.dll
+C:\Users\marina.varela\Documents\Exercício-C#\ProjetoCursoDesenvolvedorIO\obj\Debug\net7.0\ProjetoShapes.pdb
+C:\Users\marina.varela\Documents\Exercício-C#\ProjetoCursoDesenvolvedorIO\obj\Debug\net7.0\ProjetoShapes.genruntimeconfig.cache
+C:\Users\marina.varela\Documents\Exercício-C#\ProjetoCursoDesenvolvedorIO\obj\Debug\net7.0\ref\ProjetoShapes.dll
