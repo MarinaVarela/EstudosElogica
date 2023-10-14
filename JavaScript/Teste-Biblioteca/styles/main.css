@@ -1,0 +1,35 @@
+/* EStilização dos filtros */
+.filtro {
+    display: flex;
+    justify-content: end;
+    padding: 0 1rem 1rem 0;
+
+}
+
+.filtro__label {
+    display: block;
+    padding: .5rem .1rem;
+}
+
+.filtro__drop {
+    justify-content: end;
+    background-color: transparent;
+    border: 1px solid var(--cinza-claro);
+    color: var(--preto);
+    padding: .5rem;
+    width: 100%;
+}
+
+/* Estilização do container Livros */
+
+main, div {
+    padding: .3rem;
+}
+
+.livro__info {
+    padding-left: .5rem;
+}
+.livro__checkbox {
+    color: var(--cinza);
+    padding-left: .5rem;
+}

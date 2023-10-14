@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <!-- Metadados -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Estilização -->
+    <title>Biblioteca</title>
+    <link rel="icon" type="image/x-icon" href="img/favicon.ico">
+
+    <link rel="stylesheet" href="styles/reset.css">
+    <link rel="stylesheet" href="styles/style.css">
+
+</head>
+
+<body>
+    <!-- Título central -->
+    <header class="header">
+        <h1 class="header__title">Biblioteca</h1>
+        <p class="header__text">Mulheres do Brasil</p>
+    </header>
+
+    <main>
+        <!-- Filtros e Pesquisa -->
+        <section class="filtro">
+            <!-- Filtro Autora -->
+            <div class="filtro__box">
+                <label class="filtro__label" for="filtroAutora">Filtrar por autora:</label>
+                <select class="filtro__drop" id="filtroAutora" onchange="filtrarPorAutora()">
+                    <option value="all">Selecione uma autora:</option>
+                    <option value="Cora Coralina">Cora Coralina</option>
+                    <option value="Cecília Meireles">Cecília Meireles</option>
+                    <option value="Clarice Lispector">Clarice Lispector</option>
+                    <option value="Lygia Fagundes Telles">Lygia Fagundes Telles</option>
+                </select>
+            </div>
+
+            <div class="filtro__box">
+                <label class="filtro__label" for="filtroLivro">Filtrar por livro:</label>
+                <select class="filtro__drop" id="filtroLivro" onchange="filtrarPorLivro()">
+                    <option value="all">Selecione um livro:</option>
+                    <option value="Poemas dos Becos de Goiás e estórias mais (poesia)">Poemas dos Becos de Goiás e
+                        estórias mais (poesia)</option>
+                    <option value="Meu Livro de Cordel">Meu Livro de Cordel</option>
+                    <option value="Romanceiro da Inconfidência">Romanceiro da Inconfidência</option>
+                    <option value="Espectros">Espectros</option>
+                    <option value="As Meninas">As Meninas</option>
+                    <option value="Seminário dos Ratos">Seminário dos Ratos</option>
+                    <option value="A Hora da Estrela">A Hora da Estrela</option>
+                    <option value="Água Viva">Água Viva</option>
+                </select>
+            </div>
+
+        </section>
+
+        <!-- Todos os livros -->
+        <section class="container-livros"></section>
+
+    </main>
+
+
+        <!-- Linha divisória -->
+        <hr />
+        <footer class="footer__box">
+            <h2>Desenvolvido por Marina Varela</h2>
+        </footer>
+
+
+
+    <!-- JavaScript script -->
+    <script src="js/main.js"></script>
+
+</body>
+</html>
+
+
+

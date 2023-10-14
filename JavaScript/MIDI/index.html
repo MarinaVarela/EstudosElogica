@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>MIDI</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600&display=swap" rel="stylesheet">
+
+    <link rel="icon" type="image/png" href="images/troll-face.png">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/estilos.css">
+
+</head>
+<body>
+
+    <section class="teclado">
+        <button class="tecla tecla_mickey"><img class="tecla-img" src="images/aiquediliça.gif"></button>
+        <button class="tecla tecla_side-eye"><img class="tecla-img" src="images/side-eye.jpg"></button>
+        <button class="tecla tecla_boom"><img class="tecla-img" src="images/boom.png"></button>
+
+        <button class="tecla tecla_cavalo"><img class="tecla-img" src="images/cavalo.png"></button>
+        <button class="tecla tecla_danger"><img class="tecla-img" src="images/danger.png"></button>
+        <button class="tecla tecla_double-kill"><img class="tecla-img" src="images/double.png"></button>
+
+        <button class="tecla tecla_laugh-short"><img class="tecla-img" src="images/laugh-short.png"></button>
+        <button class="tecla tecla_laugh"><img class="tecla-img" src="images/laugh.png"></button>
+        <button class="tecla tecla_miau"><img class="tecla-img" src="images/miau.gif"></button>
+        
+        <button class="tecla tecla_omg"><img class="tecla-img" src="images/omg.png"></button>
+        <button class="tecla tecla_panela"><img class="tecla-img" src="images/cachorro-panela.gif"></button>
+        <button class="tecla tecla_rapaz"><img class="tecla-img" src="images/xaropinho.png"></button>
+    </section>
+
+    <audio src="sounds/aiquediliça.mp3" id="som_tecla_mickey"></audio>
+    <audio src="sounds/bombastic-side-eye.mp3" id="som_tecla_side-eye"></audio>
+    <audio src="sounds/boom.mp3" id="som_tecla_boom"></audio>
+    <audio src="sounds/cavalo.mp3" id="som_tecla_cavalo"></audio>
+    <audio src="sounds/danger.mp3" id="som_tecla_danger"></audio>
+    <audio src="sounds/double-kill.mp3" id="som_tecla_double-kill"></audio>
+    <audio src="sounds/laugh-short.mp3" id="som_tecla_laugh-short"></audio>
+    <audio src="sounds/laugh.mp3" id="som_tecla_laugh"></audio>
+    <audio src="sounds/miau.mp3" id="som_tecla_miau"></audio>
+    <audio src="sounds/oh-my-god.mp3" id="som_tecla_omg"></audio>
+    <audio src="sounds/panela.mp3" id="som_tecla_panela"></audio>
+    <audio src="sounds/rapaz.mp3" id="som_tecla_rapaz"></audio>
+    
+    <!-- O JS depende da estrutura do html, o script precisa ser passado no body. Se não depende, no head. -->
+    <script src="js/main.js"></script> 
+
+</body>
+</html>
